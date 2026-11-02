@@ -1,5 +1,5 @@
-# Loan Risk Analysis Dashboard
-<img width="941" height="534" alt="Screenshot 2026-10-14 092651" src="https://github.com/user-attachments/assets/5ab42d12-dee7-4c87-b6de-ada14845c109" />
+# Loan Risk Analysis Dashboard<img width="954" height="534" alt="Screenshot 2026-10-27 112933" src="https://github.com/user-attachments/assets/df8ba10c-db69-438a-a935-b8408748c738" />
+
 
 
 Interactive Power BI dashboard for analyzing credit and loan portfolio risk.  
